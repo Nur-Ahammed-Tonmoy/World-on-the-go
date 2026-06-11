@@ -11,3 +11,7 @@
     object-fit: cover;
     border-radius: 10px;
 }
+
+.country-visited{
+    background-color: lightgreen;       
+}
